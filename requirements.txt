@@ -1,0 +1,4 @@
+gunicorn==20.1.0
+
+# Django dependencies, extensions and plugins
+Django==4.0.3
